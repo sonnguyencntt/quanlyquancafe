@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-textne
-=======
-textne
->>>>>>> d966f6dde39d702c3a1b9f4ebe3c2162e9838ad5
-oke
